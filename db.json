@@ -233,8 +233,8 @@
       "id_slug": "kota-cerdas-masa-depan",
       "created_at": "2023-05-30T08:00:00Z",
       "modified_at": "2023-05-30T09:45:00Z",
-      "category": "Construction Materials",
-      "category_slug": "construction-materials",
+      "category": "Pembangunan Perkotaan",
+      "category_slug": "pembangunan-perkotaan",
       "author": "John Smith",
       "cover_image": "/random/img-5.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -319,6 +319,50 @@
       "cover_image": "/random/img-10.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "en": "Infrastructure",
+      "en_slug": "infrastructure",
+      "idn": "Infrastruktur",
+      "idn_slug": "infrastruktur"
+    },
+    {
+      "id": 2,
+      "en": "Building Construction",
+      "en_slug": "building-construction",
+      "idn": "Konstruksi Bangunan",
+      "idn_slug": "konstruksi-bangunan"
+    },
+    {
+      "id": 3,
+      "en": "Construction Technology",
+      "en_slug": "construction-technology",
+      "idn": "Teknologi Konstruksi",
+      "idn_slug": "teknologi-konstruksi"
+    },
+    {
+      "id": 4,
+      "en": "Sustainability",
+      "en_slug": "sustainability",
+      "idn": "Konstruksi Berkelanjutan",
+      "idn_slug": "konstruksi-berkelanjutan"
+    },
+    {
+      "id": 5,
+      "en": "Urban Development",
+      "en_slug": "urban-development",
+      "idn": "Pembangunan Perkotaan",
+      "idn_slug": "pembangunan-perkotaan"
+    },
+    {
+      "id": 6,
+      "en": "Green Building",
+      "en_slug": "green-building",
+      "idn": "Bangunan Hijau",
+      "idn_slug": "bangunan-hijau"
     }
   ]
 }
