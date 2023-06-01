@@ -323,6 +323,13 @@
   ],
   "categories": [
     {
+      "id": 0,
+      "en": "All categories",
+      "en_slug": "all-categories",
+      "idn": "Semua kategori",
+      "idn_slug": "semua-kategori"
+    },
+    {
       "id": 1,
       "en": "Infrastructure",
       "en_slug": "infrastructure",
