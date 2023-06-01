@@ -2,7 +2,7 @@
   "news": [
     {
       "id": 1,
-      "featured": false,
+      "featured": true,
       "lang": "en",
       "title": "The Future of Sustainable Infrastructure",
       "slug": "future-sustainable-infrastructure",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "featured": false,
+      "featured": true,
       "lang": "id",
       "title": "Masa Depan Infrastruktur Berkelanjutan",
       "slug": "masa-depan-infrastruktur-berkelanjutan",
