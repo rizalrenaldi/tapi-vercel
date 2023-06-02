@@ -5,8 +5,10 @@
       "featured": true,
       "lang": "en",
       "title": "The Future of Sustainable Infrastructure",
-      "slug": "future-sustainable-infrastructure",
-      "id_slug": "masa-depan-infrastruktur-berkelanjutan",
+      "slug": {
+        "en": "future-sustainable-infrastructure",
+        "id": "masa-depan-infrastruktur-berkelanjutan"
+      },
       "created_at": "2023-05-31T09:30:00Z",
       "modified_at": "2023-05-31T11:15:00Z",
       "category": "Infrastructure",
@@ -21,8 +23,10 @@
       "featured": true,
       "lang": "id",
       "title": "Masa Depan Infrastruktur Berkelanjutan",
-      "slug": "masa-depan-infrastruktur-berkelanjutan",
-      "en_slug": "future-sustainable-infrastructure",
+      "slug": {
+        "en": "future-sustainable-infrastructure",
+        "id": "masa-depan-infrastruktur-berkelanjutan"
+      },
       "created_at": "2023-05-31T09:45:00Z",
       "modified_at": "2023-05-31T11:30:00Z",
       "category": "Infrastruktur",
@@ -37,8 +41,10 @@
       "featured": false,
       "lang": "en",
       "title": "Innovations in Building Construction",
-      "slug": "innovations-building-construction",
-      "id_slug": "inovasi-konstruksi-bangunan",
+      "slug": {
+        "en": "innovations-building-construction",
+        "id": "inovasi-konstruksi-bangunan"
+      },
       "created_at": "2023-05-30T10:15:00Z",
       "modified_at": "2023-05-30T12:00:00Z",
       "category": "Building Construction",
@@ -53,8 +59,10 @@
       "featured": false,
       "lang": "id",
       "title": "Inovasi dalam Konstruksi Bangunan",
-      "slug": "inovasi-konstruksi-bangunan",
-      "en_slug": "innovations-building-construction",
+      "slug": {
+        "en": "innovations-building-construction",
+        "id": "inovasi-konstruksi-bangunan"
+      },
       "created_at": "2023-05-30T10:30:00Z",
       "modified_at": "2023-05-30T12:15:00Z",
       "category": "Konstruksi Bangunan",
@@ -69,8 +77,10 @@
       "featured": false,
       "lang": "en",
       "title": "Investing in Infrastructure for Economic Growth",
-      "slug": "investing-infrastructure-economic-growth",
-      "id_slug": "investasi-infrastruktur-pertumbuhan-ekonomi",
+      "slug": {
+        "en": "investing-infrastructure-economic-growth",
+        "id": "investasi-infrastruktur-pertumbuhan-ekonomi"
+      },
       "created_at": "2023-05-29T09:45:00Z",
       "modified_at": "2023-05-29T11:30:00Z",
       "category": "Infrastructure",
@@ -85,8 +95,10 @@
       "featured": false,
       "lang": "id",
       "title": "Investasi dalam Infrastruktur untuk Pertumbuhan Ekonomi",
-      "slug": "investasi-infrastruktur-pertumbuhan-ekonomi",
-      "en_slug": "investing-infrastructure-economic-growth",
+      "slug": {
+        "en": "investing-infrastructure-economic-growth",
+        "id": "investasi-infrastruktur-pertumbuhan-ekonomi"
+      },
       "created_at": "2023-05-29T10:00:00Z",
       "modified_at": "2023-05-29T11:45:00Z",
       "category": "Infrastruktur",
@@ -101,8 +113,10 @@
       "featured": false,
       "lang": "en",
       "title": "Building Sustainable Cities for the Future",
-      "slug": "building-sustainable-cities-future",
-      "id_slug": "membangun-kota-berkelanjutan-masa-depan",
+      "slug": {
+        "en": "building-sustainable-cities-future",
+        "id": "membangun-kota-berkelanjutan-masa-depan"
+      },
       "created_at": "2023-05-28T09:30:00Z",
       "modified_at": "2023-05-28T11:15:00Z",
       "category": "Building Construction",
@@ -117,8 +131,10 @@
       "featured": false,
       "lang": "id",
       "title": "Membangun Kota Berkelanjutan untuk Masa Depan",
-      "slug": "membangun-kota-berkelanjutan-masa-depan",
-      "en_slug": "building-sustainable-cities-future",
+      "slug": {
+        "en": "building-sustainable-cities-future",
+        "id": "membangun-kota-berkelanjutan-masa-depan"
+      },
       "created_at": "2023-05-28T09:45:00Z",
       "modified_at": "2023-05-28T11:30:00Z",
       "category": "Konstruksi Bangunan",
@@ -133,8 +149,10 @@
       "featured": false,
       "lang": "en",
       "title": "The Role of Technology in Construction Industry",
-      "slug": "role-technology-construction-industry",
-      "id_slug": "peran-teknologi-industri-konstruksi",
+      "slug": {
+        "en":"role-technology-construction-industry",
+        "id": "peran-teknologi-industri-konstruksi"
+      },
       "created_at": "2023-05-27T08:30:00Z",
       "modified_at": "2023-05-27T10:15:00Z",
       "category": "Construction Technology",
@@ -149,8 +167,10 @@
       "featured": false,
       "lang": "id",
       "title": "Peran Teknologi dalam Industri Konstruksi",
-      "slug": "peran-teknologi-industri-konstruksi",
-      "en_slug": "role-technology-construction-industry",
+      "slug": {
+        "en":"role-technology-construction-industry",
+        "id": "peran-teknologi-industri-konstruksi"
+      },
       "created_at": "2023-05-27T08:45:00Z",
       "modified_at": "2023-05-27T10:30:00Z",
       "category": "Teknologi Konstruksi",
@@ -165,8 +185,10 @@
       "featured": false,
       "lang": "en",
       "title": "The Importance of Sustainable Construction",
-      "slug": "importance-sustainable-construction",
-      "id_slug": "pentingnya-konstruksi-berkelanjutan",
+      "slug": {
+        "en":"importance-sustainable-construction",
+      "id": "pentingnya-konstruksi-berkelanjutan"
+      },
       "created_at": "2023-05-28T08:00:00Z",
       "modified_at": "2023-05-28T09:45:00Z",
       "category": "Sustainability",
@@ -181,8 +203,10 @@
       "featured": false,
       "lang": "id",
       "title": "Pentingnya Konstruksi Berkelanjutan",
-      "slug": "pentingnya-konstruksi-berkelanjutan",
-      "en_slug": "importance-sustainable-construction",
+      "slug": {
+        "en":"importance-sustainable-construction",
+      "id": "pentingnya-konstruksi-berkelanjutan"
+      },
       "created_at": "2023-05-28T09:30:00Z",
       "modified_at": "2023-05-28T11:15:00Z",
       "category": "Konstruksi Berkelanjutan",
@@ -197,8 +221,10 @@
       "featured": false,
       "lang": "en",
       "title": "Designing Sustainable Infrastructure",
-      "slug": "designing-sustainable-infrastructure",
-      "id_slug": "desain-infrastruktur-berkelanjutan",
+      "slug": {
+        "en":"designing-sustainable-infrastructure",
+      "id": "desain-infrastruktur-berkelanjutan"
+      },
       "created_at": "2023-05-29T08:00:00Z",
       "modified_at": "2023-05-29T09:45:00Z",
       "category": "Infrastructure",
@@ -213,8 +239,10 @@
       "featured": false,
       "lang": "id",
       "title": "Desain Infrastruktur Berkelanjutan",
-      "slug": "desain-infrastruktur-berkelanjutan",
-      "en_slug": "designing-sustainable-infrastructure",
+      "slug": {
+        "en":"designing-sustainable-infrastructure",
+      "id": "desain-infrastruktur-berkelanjutan"
+      },
       "created_at": "2023-05-29T09:30:00Z",
       "modified_at": "2023-05-29T11:15:00Z",
       "category": "Infrastruktur",
@@ -229,8 +257,10 @@
       "featured": false,
       "lang": "en",
       "title": "Future smart cities",
-      "slug": "future-smart-cities",
-      "id_slug": "kota-cerdas-masa-depan",
+      "slug": {
+        "en":"future-smart-cities",
+        "id": "kota-cerdas-masa-depan"
+      },
       "created_at": "2023-05-30T08:00:00Z",
       "modified_at": "2023-05-30T09:45:00Z",
       "category": "Pembangunan Perkotaan",
@@ -245,8 +275,10 @@
       "featured": false,
       "lang": "id",
       "title": "Kota cerdas masa depan",
-      "slug": "kota-cerdas-masa-depan",
-      "en_slug": "future-smart-cities",
+      "slug": {
+        "en":"future-smart-cities",
+        "id": "kota-cerdas-masa-depan"
+      },
       "created_at": "2023-05-31T08:00:00Z",
       "modified_at": "2023-05-31T09:45:00Z",
       "category": "Urban Development",
@@ -261,8 +293,10 @@
       "featured": false,
       "lang": "en",
       "title": "Innovations in Green Building Design",
-      "slug": "innovations-green-building-design",
-      "id_slug": "inovasi-desain-bangunan-hijau",
+      "slug": {
+        "en":"innovations-green-building-design",
+        "id": "inovasi-desain-bangunan-hijau"
+      },
       "created_at": "2023-06-02T08:00:00Z",
       "modified_at": "2023-06-02T09:45:00Z",
       "category": "Green Building",
@@ -277,8 +311,10 @@
       "featured": false,
       "lang": "id",
       "title": "Inovasi Desain Bangunan Hijau",
-      "slug": "inovasi-desain-bangunan-hijau",
-      "en_slug": "innovations-green-building-design",
+      "slug": {
+        "en":"innovations-green-building-design",
+        "id": "inovasi-desain-bangunan-hijau"
+      },
       "created_at": "2023-06-03T09:30:00Z",
       "modified_at": "2023-06-03T11:15:00Z",
       "category": "Bangunan Hijau",
@@ -293,8 +329,10 @@
       "featured": false,
       "lang": "id",
       "title": "Masa Depan Konstruksi Berkelanjutan",
-      "slug": "masa-depan-konstruksi-berkelanjutan",
-      "en_slug": "future-sustainable-construction",
+      "slug": {
+        "en": "future-sustainable-construction",
+        "id":"masa-depan-konstruksi-berkelanjutan"
+      },
       "created_at": "2023-06-01T09:30:00Z",
       "modified_at": "2023-06-01T11:15:00Z",
       "category": "Konstruksi Berkelanjutan",
@@ -309,8 +347,10 @@
       "featured": false,
       "lang": "en",
       "title": "Future sustainable construction",
-      "slug": "future-sustainable-construction",
-      "id_slug": "masa-depan-konstruksi-berkelanjutan",
+      "slug": {
+        "en": "future-sustainable-construction",
+        "id":"masa-depan-konstruksi-berkelanjutan"
+      },
       "created_at": "2023-06-04T08:00:00Z",
       "modified_at": "2023-06-04T09:45:00Z",
       "category": "Construction Technology",
