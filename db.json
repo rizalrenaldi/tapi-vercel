@@ -364,52 +364,80 @@
   "categories": [
     {
       "id": 0,
-      "en": "All categories",
-      "en_slug": "all-categories",
-      "idn": "Semua kategori",
-      "idn_slug": "semua-kategori"
+      "title": {
+        "en": "All categories",
+        "id": "Semua kategori"
+        
+      },
+      "slug": {
+        "en": "all-categories",
+      "id": "semua-kategori"}
     },
     {
       "id": 1,
-      "en": "Infrastructure",
-      "en_slug": "infrastructure",
-      "idn": "Infrastruktur",
-      "idn_slug": "infrastruktur"
+      "title": {
+        "en": "Infrastructure",
+        "id": "Infrastruktur"
+        
+      },
+      "slug": {
+        "en": "infrastructure",
+      "id": "infrastruktur"}
     },
     {
       "id": 2,
-      "en": "Building Construction",
-      "en_slug": "building-construction",
-      "idn": "Konstruksi Bangunan",
-      "idn_slug": "konstruksi-bangunan"
+      "title": {
+        "en": "Building Construction",
+        "id": "Konstruksi Bangunan"
+        
+      },
+      "slug": {
+        "en": "building-construction",
+      "id": "konstruksi-bangunan"}
     },
     {
       "id": 3,
-      "en": "Construction Technology",
-      "en_slug": "construction-technology",
-      "idn": "Teknologi Konstruksi",
-      "idn_slug": "teknologi-konstruksi"
+      "title": {
+        "en": "Construction Technology",
+        "id": "Teknologi Konstruksi"
+        
+      },
+      "slug": {
+        "en": "construction-technology",
+      "id": "teknologi-konstruksi"}
     },
     {
       "id": 4,
-      "en": "Sustainability",
-      "en_slug": "sustainability",
-      "idn": "Konstruksi Berkelanjutan",
-      "idn_slug": "konstruksi-berkelanjutan"
+      "title": {
+        "en": "Sustainability",
+        "id": "Konstruksi Berkelanjutan"
+        
+      },
+      "slug": {
+        "en": "sustainability",
+      "id": "konstruksi-berkelanjutan"}
     },
     {
       "id": 5,
-      "en": "Urban Development",
-      "en_slug": "urban-development",
-      "idn": "Pembangunan Perkotaan",
-      "idn_slug": "pembangunan-perkotaan"
+      "title": {
+        "en": "Urban Development",
+        "id": "Pembangunan Perkotaan"
+        
+      },
+      "slug": {
+        "en": "urban-development",
+      "id": "pembangunan-perkotaan"}
     },
     {
       "id": 6,
-      "en": "Green Building",
-      "en_slug": "green-building",
-      "idn": "Bangunan Hijau",
-      "idn_slug": "bangunan-hijau"
+      "title": {
+        "en": "Green Building",
+        "id": "Bangunan Hijau"
+        
+      },
+      "slug": {
+        "en": "green-building",
+      "id": "bangunan-hijau"}
     }
   ],
   "gallery": [
