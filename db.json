@@ -150,7 +150,7 @@
       "lang": "en",
       "title": "The Role of Technology in Construction Industry",
       "slug": {
-        "en":"role-technology-construction-industry",
+        "en": "role-technology-construction-industry",
         "id": "peran-teknologi-industri-konstruksi"
       },
       "created_at": "2023-05-27T08:30:00Z",
@@ -168,7 +168,7 @@
       "lang": "id",
       "title": "Peran Teknologi dalam Industri Konstruksi",
       "slug": {
-        "en":"role-technology-construction-industry",
+        "en": "role-technology-construction-industry",
         "id": "peran-teknologi-industri-konstruksi"
       },
       "created_at": "2023-05-27T08:45:00Z",
@@ -186,8 +186,8 @@
       "lang": "en",
       "title": "The Importance of Sustainable Construction",
       "slug": {
-        "en":"importance-sustainable-construction",
-      "id": "pentingnya-konstruksi-berkelanjutan"
+        "en": "importance-sustainable-construction",
+        "id": "pentingnya-konstruksi-berkelanjutan"
       },
       "created_at": "2023-05-28T08:00:00Z",
       "modified_at": "2023-05-28T09:45:00Z",
@@ -204,8 +204,8 @@
       "lang": "id",
       "title": "Pentingnya Konstruksi Berkelanjutan",
       "slug": {
-        "en":"importance-sustainable-construction",
-      "id": "pentingnya-konstruksi-berkelanjutan"
+        "en": "importance-sustainable-construction",
+        "id": "pentingnya-konstruksi-berkelanjutan"
       },
       "created_at": "2023-05-28T09:30:00Z",
       "modified_at": "2023-05-28T11:15:00Z",
@@ -222,8 +222,8 @@
       "lang": "en",
       "title": "Designing Sustainable Infrastructure",
       "slug": {
-        "en":"designing-sustainable-infrastructure",
-      "id": "desain-infrastruktur-berkelanjutan"
+        "en": "designing-sustainable-infrastructure",
+        "id": "desain-infrastruktur-berkelanjutan"
       },
       "created_at": "2023-05-29T08:00:00Z",
       "modified_at": "2023-05-29T09:45:00Z",
@@ -240,8 +240,8 @@
       "lang": "id",
       "title": "Desain Infrastruktur Berkelanjutan",
       "slug": {
-        "en":"designing-sustainable-infrastructure",
-      "id": "desain-infrastruktur-berkelanjutan"
+        "en": "designing-sustainable-infrastructure",
+        "id": "desain-infrastruktur-berkelanjutan"
       },
       "created_at": "2023-05-29T09:30:00Z",
       "modified_at": "2023-05-29T11:15:00Z",
@@ -258,13 +258,13 @@
       "lang": "en",
       "title": "Future smart cities",
       "slug": {
-        "en":"future-smart-cities",
+        "en": "future-smart-cities",
         "id": "kota-cerdas-masa-depan"
       },
       "created_at": "2023-05-30T08:00:00Z",
       "modified_at": "2023-05-30T09:45:00Z",
-      "category": "Pembangunan Perkotaan",
-      "category_slug": "pembangunan-perkotaan",
+      "category": "Urban Development",
+      "category_slug": "urban-development",
       "author": "John Smith",
       "cover_image": "/random/img-5.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -276,13 +276,13 @@
       "lang": "id",
       "title": "Kota cerdas masa depan",
       "slug": {
-        "en":"future-smart-cities",
+        "en": "future-smart-cities",
         "id": "kota-cerdas-masa-depan"
       },
       "created_at": "2023-05-31T08:00:00Z",
       "modified_at": "2023-05-31T09:45:00Z",
-      "category": "Urban Development",
-      "category_slug": "urban-development",
+      "category": "Pembangunan Perkotaan",
+      "category_slug": "pembangunan-perkotaan",
       "author": "John Smith",
       "cover_image": "/random/img-6.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -294,7 +294,7 @@
       "lang": "en",
       "title": "Innovations in Green Building Design",
       "slug": {
-        "en":"innovations-green-building-design",
+        "en": "innovations-green-building-design",
         "id": "inovasi-desain-bangunan-hijau"
       },
       "created_at": "2023-06-02T08:00:00Z",
@@ -312,7 +312,7 @@
       "lang": "id",
       "title": "Inovasi Desain Bangunan Hijau",
       "slug": {
-        "en":"innovations-green-building-design",
+        "en": "innovations-green-building-design",
         "id": "inovasi-desain-bangunan-hijau"
       },
       "created_at": "2023-06-03T09:30:00Z",
@@ -331,7 +331,7 @@
       "title": "Masa Depan Konstruksi Berkelanjutan",
       "slug": {
         "en": "future-sustainable-construction",
-        "id":"masa-depan-konstruksi-berkelanjutan"
+        "id": "masa-depan-konstruksi-berkelanjutan"
       },
       "created_at": "2023-06-01T09:30:00Z",
       "modified_at": "2023-06-01T11:15:00Z",
@@ -349,7 +349,7 @@
       "title": "Future sustainable construction",
       "slug": {
         "en": "future-sustainable-construction",
-        "id":"masa-depan-konstruksi-berkelanjutan"
+        "id": "masa-depan-konstruksi-berkelanjutan"
       },
       "created_at": "2023-06-04T08:00:00Z",
       "modified_at": "2023-06-04T09:45:00Z",
@@ -367,77 +367,77 @@
       "title": {
         "en": "All categories",
         "id": "Semua kategori"
-        
       },
       "slug": {
         "en": "all-categories",
-      "id": "semua-kategori"}
+        "id": "semua-kategori"
+      }
     },
     {
       "id": 1,
       "title": {
         "en": "Infrastructure",
         "id": "Infrastruktur"
-        
       },
       "slug": {
         "en": "infrastructure",
-      "id": "infrastruktur"}
+        "id": "infrastruktur"
+      }
     },
     {
       "id": 2,
       "title": {
         "en": "Building Construction",
         "id": "Konstruksi Bangunan"
-        
       },
       "slug": {
         "en": "building-construction",
-      "id": "konstruksi-bangunan"}
+        "id": "konstruksi-bangunan"
+      }
     },
     {
       "id": 3,
       "title": {
         "en": "Construction Technology",
         "id": "Teknologi Konstruksi"
-        
       },
       "slug": {
         "en": "construction-technology",
-      "id": "teknologi-konstruksi"}
+        "id": "teknologi-konstruksi"
+      }
     },
     {
       "id": 4,
       "title": {
         "en": "Sustainability",
         "id": "Konstruksi Berkelanjutan"
-        
       },
       "slug": {
         "en": "sustainability",
-      "id": "konstruksi-berkelanjutan"}
+        "id": "konstruksi-berkelanjutan"
+      }
     },
     {
       "id": 5,
       "title": {
         "en": "Urban Development",
         "id": "Pembangunan Perkotaan"
-        
       },
       "slug": {
         "en": "urban-development",
-      "id": "pembangunan-perkotaan"}
+        "id": "pembangunan-perkotaan"
+      }
     },
     {
       "id": 6,
       "title": {
         "en": "Green Building",
         "id": "Bangunan Hijau"
-        
       },
       "slug": {
         "en": "green-building",
-      "id": "bangunan-hijau"}
+        "id": "bangunan-hijau"
+      }
     }
   ],
   "gallery": [
