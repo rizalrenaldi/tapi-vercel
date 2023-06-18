@@ -489,8 +489,8 @@
       "lang": "en",
       "title": "The Impact of Artificial Intelligence on Modern Society",
       "slug": {
-        "en_slug": "the-impact-of-artificial-intelligence-on-modern-society",
-        "id_slug": "dampak-kecerdasan-buatan-terhadap-masyarakat-modern"
+        "en": "the-impact-of-artificial-intelligence-on-modern-society",
+        "id": "dampak-kecerdasan-buatan-terhadap-masyarakat-modern"
       },
       "created_at": "2023-06-01",
       "modified_at": "2023-06-02",
@@ -507,8 +507,8 @@
       "lang": "id",
       "title": "Dampak Kecerdasan Buatan terhadap Masyarakat Modern",
       "slug": {
-        "en_slug": "the-impact-of-artificial-intelligence-on-modern-society",
-        "id_slug": "dampak-kecerdasan-buatan-terhadap-masyarakat-modern"
+        "en": "the-impact-of-artificial-intelligence-on-modern-society",
+        "id": "dampak-kecerdasan-buatan-terhadap-masyarakat-modern"
       },
       "created_at": "2023-06-03",
       "modified_at": "2023-06-04",
@@ -525,8 +525,8 @@
       "lang": "en",
       "title": "The Rise of Blockchain Technology",
       "slug": {
-        "en_slug": "the-rise-of-blockchain-technology",
-        "id_slug": "kebangkitan-teknologi-blockchain"
+        "en": "the-rise-of-blockchain-technology",
+        "id": "kebangkitan-teknologi-blockchain"
       },
       "created_at": "2023-06-05",
       "modified_at": "2023-06-06",
@@ -543,8 +543,8 @@
       "lang": "id",
       "title": "Kebangkitan Teknologi Blockchain",
       "slug": {
-        "en_slug": "the-rise-of-blockchain-technology",
-        "id_slug": "kebangkitan-teknologi-blockchain"
+        "en": "the-rise-of-blockchain-technology",
+        "id": "kebangkitan-teknologi-blockchain"
       },
       "created_at": "2023-06-07",
       "modified_at": "2023-06-08",
@@ -561,8 +561,8 @@
       "lang": "en",
       "title": "The Future of Artificial Intelligence in Education",
       "slug": {
-        "en_slug": "the-future-of-artificial-intelligence-in-education",
-        "id_slug": "masa-depan-kecerdasan-buatan-di-pendidikan"
+        "en": "the-future-of-artificial-intelligence-in-education",
+        "id": "masa-depan-kecerdasan-buatan-di-pendidikan"
       },
       "created_at": "2023-06-09",
       "modified_at": "2023-06-10",
@@ -579,8 +579,8 @@
       "lang": "id",
       "title": "Masa Depan Kecerdasan Buatan di Pendidikan",
       "slug": {
-        "en_slug": "the-future-of-artificial-intelligence-in-education",
-        "id_slug": "masa-depan-kecerdasan-buatan-di-pendidikan"
+        "en": "the-future-of-artificial-intelligence-in-education",
+        "id": "masa-depan-kecerdasan-buatan-di-pendidikan"
       },
       "created_at": "2023-06-11",
       "modified_at": "2023-06-12",
@@ -597,8 +597,8 @@
       "lang": "en",
       "title": "The Evolution of Cloud Computing",
       "slug": {
-        "en_slug": "the-evolution-of-cloud-computing",
-        "id_slug": "evolusi-komputasi-awan"
+        "en": "the-evolution-of-cloud-computing",
+        "id": "evolusi-komputasi-awan"
       },
       "created_at": "2023-06-13",
       "modified_at": "2023-06-14",
@@ -615,8 +615,8 @@
       "lang": "id",
       "title": "Evolusi Komputasi Awan",
       "slug": {
-        "en_slug": "the-evolution-of-cloud-computing",
-        "id_slug": "evolusi-komputasi-awan"
+        "en": "the-evolution-of-cloud-computing",
+        "id": "evolusi-komputasi-awan"
       },
       "created_at": "2023-06-15",
       "modified_at": "2023-06-16",
@@ -633,8 +633,8 @@
       "lang": "en",
       "title": "The Impact of 5G Technology on Communication",
       "slug": {
-        "en_slug": "the-impact-of-5g-technology-on-communication",
-        "id_slug": "dampak-teknologi-5g-pada-komunikasi"
+        "en": "the-impact-of-5g-technology-on-communication",
+        "id": "dampak-teknologi-5g-pada-komunikasi"
       },
       "created_at": "2023-06-17",
       "modified_at": "2023-06-18",
@@ -651,8 +651,8 @@
       "lang": "id",
       "title": "Dampak Teknologi 5G pada Komunikasi",
       "slug": {
-        "en_slug": "the-impact-of-5g-technology-on-communication",
-        "id_slug": "dampak-teknologi-5g-pada-komunikasi"
+        "en": "the-impact-of-5g-technology-on-communication",
+        "id": "dampak-teknologi-5g-pada-komunikasi"
       },
       "created_at": "2023-06-19",
       "modified_at": "2023-06-20",
