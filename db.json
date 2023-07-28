@@ -1,7 +1,6 @@
 {
   "test": [
-    {"name":"John"},
-    {"name":"Susan"}
+    {"name":"John"}
   ],
   "news": [
     {
