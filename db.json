@@ -1,4 +1,8 @@
 {
+  "test": [
+    {"name":"John"},
+    {"name":"Susan"}
+  ],
   "news": [
     {
       "id": 1,
