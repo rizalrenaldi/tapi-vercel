@@ -669,188 +669,184 @@
   ],
   "its": [
     {
-      "articles": [
-        {
-          "id": 1,
-          "featured": false,
-          "lang": "en",
-          "title": "Advancements in Intelligent Transport Systems in the Asia Pacific Region",
-          "slug": {
-            "en": "advancements-in-intelligent-transport-systems-asia-pacific",
-            "id": "perkembangan-sistem-transportasi-cerdas-asia-pasifik"
-          },
-          "created_at": "2023-08-12T09:00:00Z",
-          "modified_at": "2023-08-12T12:30:00Z",
-          "category": "Transportation",
-          "category_slug": "transportation",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-1.jpg",
-          "excerpt": "Explore the latest advancements in intelligent transport systems in the Asia Pacific region...",
-          "content": "Intelligent Transport Systems (ITS) have revolutionized the way we commute and travel..."
-        },
-        {
-          "id": 2,
-          "featured": false,
-          "lang": "en",
-          "title": "The Role of Data Analytics in Enhancing Urban Mobility",
-          "slug": {
-            "en": "role-data-analytics-enhancing-urban-mobility",
-            "id": "peran-analitika-data-dalam-meningkatkan-mobilitas-urban"
-          },
-          "created_at": "2023-08-12T10:00:00Z",
-          "modified_at": "2023-08-12T13:30:00Z",
-          "category": "Data Science",
-          "category_slug": "data-science",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-2.jpg",
-          "excerpt": "Discover how data analytics is shaping and enhancing the way people move within urban areas...",
-          "content": "Data analytics is playing an increasingly crucial role in transforming urban mobility..."
-        },
-        {
-          "id": 3,
-          "featured": false,
-          "lang": "en",
-          "title": "Challenges and Opportunities of Implementing Intelligent Traffic Management",
-          "slug": {
-            "en": "challenges-opportunities-implementing-intelligent-traffic-management",
-            "id": "tantangan-dan-peluang-implementasi-manajemen-lalu-lintas-cerdas"
-          },
-          "created_at": "2023-08-12T11:00:00Z",
-          "modified_at": "2023-08-12T14:30:00Z",
-          "category": "Technology",
-          "category_slug": "technology",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-3.jpg",
-          "excerpt": "Explore the various challenges and opportunities that come with implementing intelligent traffic...",
-          "content": "Intelligent Traffic Management Systems (ITMS) have the potential to transform how cities..."
-        },
-        {
-          "id": 4,
-          "featured": false,
-          "lang": "en",
-          "title": "The Future of Autonomous Vehicles in Asia Pacific",
-          "slug": {
-            "en": "future-autonomous-vehicles-asia-pacific",
-            "id": "masa-depan-kendaraan-otonom-di-asia-pasifik"
-          },
-          "created_at": "2023-08-12T12:00:00Z",
-          "modified_at": "2023-08-12T15:30:00Z",
-          "category": "Automotive",
-          "category_slug": "automotive",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-4.jpg",
-          "excerpt": "Explore the potential and challenges of autonomous vehicles in shaping the transportation...",
-          "content": "The Asia Pacific region is emerging as a hotbed for autonomous vehicle development..."
-        },
-        {
-          "id": 5,
-          "featured": false,
-          "lang": "en",
-          "title": "Smart Infrastructure: Building the Foundation for Intelligent Transport Systems",
-          "slug": {
-            "en": "smart-infrastructure-building-foundation-intelligent-transport-systems",
-            "id": "infrastruktur-cerdas-membangun-fondasi-sistem-transportasi-cerdas"
-          },
-          "created_at": "2023-08-12T13:00:00Z",
-          "modified_at": "2023-08-12T16:30:00Z",
-          "category": "Infrastructure",
-          "category_slug": "infrastructure",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-5.jpg",
-          "excerpt": "Explore the essential role of smart infrastructure in laying the groundwork for intelligent...",
-          "content": "Smart infrastructure forms the backbone of modern intelligent transport systems..."
-        },
-        {
-          "id": 6,
-          "featured": false,
-          "lang": "id",
-          "title": "Perkembangan Sistem Transportasi Cerdas di Wilayah Asia Pasifik",
-          "slug": {
-            "en": "advancements-in-intelligent-transport-systems-asia-pacific",
-            "id": "perkembangan-sistem-transportasi-cerdas-asia-pasifik"
-          },
-          "created_at": "2023-08-12T09:45:00Z",
-          "modified_at": "2023-08-12T13:15:00Z",
-          "category": "Transportasi",
-          "category_slug": "transportasi",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-6.jpg",
-          "excerpt": "Jelajahi perkembangan terbaru dalam sistem transportasi cerdas di wilayah Asia Pasifik...",
-          "content": "Sistem Transportasi Cerdas (STC) telah merevolusi cara kita berkomuter dan bepergian..."
-        },
-        {
-          "id": 7,
-          "featured": false,
-          "lang": "id",
-          "title": "Peran Analitika Data dalam Meningkatkan Mobilitas Urban",
-          "slug": {
-            "en": "role-data-analytics-enhancing-urban-mobility",
-            "id": "peran-analitika-data-dalam-meningkatkan-mobilitas-urban"
-          },
-          "created_at": "2023-08-12T10:15:00Z",
-          "modified_at": "2023-08-12T13:45:00Z",
-          "category": "Ilmu Data",
-          "category_slug": "ilmu-data",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-7.jpg",
-          "excerpt": "Temukan bagaimana analitika data membentuk dan meningkatkan cara orang bergerak di dalam kota...",
-          "content": "Analitika data semakin berperan penting dalam mengubah mobilitas perkotaan..."
-        },
-        {
-          "id": 8,
-          "featured": false,
-          "lang": "id",
-          "title": "Tantangan dan Peluang dalam Implementasi Manajemen Lalu Lintas Cerdas",
-          "slug": {
-            "en": "challenges-opportunities-implementing-intelligent-traffic-management",
-            "id": "tantangan-dan-peluang-implementasi-manajemen-lalu-lintas-cerdas"
-          },
-          "created_at": "2023-08-12T11:30:00Z",
-          "modified_at": "2023-08-12T14:45:00Z",
-          "category": "Teknologi",
-          "category_slug": "teknologi",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-8.jpg",
-          "excerpt": "Jelajahi berbagai tantangan dan peluang yang datang dengan implementasi manajemen lalu lintas cerdas...",
-          "content": "Sistem Manajemen Lalu Lintas Cerdas (SMLLC) memiliki potensi untuk mengubah bagaimana kota..."
-        },
-        {
-          "id": 9,
-          "featured": false,
-          "lang": "id",
-          "title": "Masa Depan Kendaraan Otonom di Asia Pasifik",
-          "slug": {
-            "en": "future-autonomous-vehicles-asia-pacific",
-            "id": "masa-depan-kendaraan-otonom-di-asia-pasifik"
-          },
-          "created_at": "2023-08-12T12:45:00Z",
-          "modified_at": "2023-08-12T16:00:00Z",
-          "category": "Otomotif",
-          "category_slug": "otomotif",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-9.jpg",
-          "excerpt": "Jelajahi potensi dan tantangan kendaraan otonom dalam membentuk masa depan transportasi...",
-          "content": "Wilayah Asia Pasifik muncul sebagai pusat perkembangan kendaraan otonom..."
-        },
-        {
-          "id": 10,
-          "featured": false,
-          "lang": "id",
-          "title": "Infrastruktur Cerdas: Membangun Fondasi untuk Sistem Transportasi Cerdas",
-          "slug": {
-            "en": "smart-infrastructure-building-foundation-intelligent-transport-systems",
-            "id": "infrastruktur-cerdas-membangun-fondasi-sistem-transportasi-cerdas"
-          },
-          "created_at": "2023-08-12T13:15:00Z",
-          "modified_at": "2023-08-12T16:45:00Z",
-          "category": "Infrastruktur",
-          "category_slug": "infrastruktur",
-          "author": "Tim ITS APF 2024",
-          "image": "/post/img-10.jpg",
-          "excerpt": "Jelajahi peran penting infrastruktur cerdas dalam membentuk dasar untuk sistem transportasi cerdas...",
-          "content": "Infrastruktur cerdas membentuk dasar dari sistem transportasi cerdas modern..."
-        }
-      ]
-    }    
+      "id": 1,
+      "featured": false,
+      "lang": "en",
+      "title": "Advancements in Intelligent Transport Systems in the Asia Pacific Region",
+      "slug": {
+        "en": "advancements-in-intelligent-transport-systems-asia-pacific",
+        "id": "perkembangan-sistem-transportasi-cerdas-asia-pasifik"
+      },
+      "created_at": "2023-08-12T09:00:00Z",
+      "modified_at": "2023-08-12T12:30:00Z",
+      "category": "Transportation",
+      "category_slug": "transportation",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-1.jpg",
+      "excerpt": "Explore the latest advancements in intelligent transport systems in the Asia Pacific region...",
+      "content": "Intelligent Transport Systems (ITS) have revolutionized the way we commute and travel..."
+    },
+    {
+      "id": 2,
+      "featured": false,
+      "lang": "en",
+      "title": "The Role of Data Analytics in Enhancing Urban Mobility",
+      "slug": {
+        "en": "role-data-analytics-enhancing-urban-mobility",
+        "id": "peran-analitika-data-dalam-meningkatkan-mobilitas-urban"
+      },
+      "created_at": "2023-08-12T10:00:00Z",
+      "modified_at": "2023-08-12T13:30:00Z",
+      "category": "Data Science",
+      "category_slug": "data-science",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-2.jpg",
+      "excerpt": "Discover how data analytics is shaping and enhancing the way people move within urban areas...",
+      "content": "Data analytics is playing an increasingly crucial role in transforming urban mobility..."
+    },
+    {
+      "id": 3,
+      "featured": false,
+      "lang": "en",
+      "title": "Challenges and Opportunities of Implementing Intelligent Traffic Management",
+      "slug": {
+        "en": "challenges-opportunities-implementing-intelligent-traffic-management",
+        "id": "tantangan-dan-peluang-implementasi-manajemen-lalu-lintas-cerdas"
+      },
+      "created_at": "2023-08-12T11:00:00Z",
+      "modified_at": "2023-08-12T14:30:00Z",
+      "category": "Technology",
+      "category_slug": "technology",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-3.jpg",
+      "excerpt": "Explore the various challenges and opportunities that come with implementing intelligent traffic...",
+      "content": "Intelligent Traffic Management Systems (ITMS) have the potential to transform how cities..."
+    },
+    {
+      "id": 4,
+      "featured": false,
+      "lang": "en",
+      "title": "The Future of Autonomous Vehicles in Asia Pacific",
+      "slug": {
+        "en": "future-autonomous-vehicles-asia-pacific",
+        "id": "masa-depan-kendaraan-otonom-di-asia-pasifik"
+      },
+      "created_at": "2023-08-12T12:00:00Z",
+      "modified_at": "2023-08-12T15:30:00Z",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-4.jpg",
+      "excerpt": "Explore the potential and challenges of autonomous vehicles in shaping the transportation...",
+      "content": "The Asia Pacific region is emerging as a hotbed for autonomous vehicle development..."
+    },
+    {
+      "id": 5,
+      "featured": false,
+      "lang": "en",
+      "title": "Smart Infrastructure: Building the Foundation for Intelligent Transport Systems",
+      "slug": {
+        "en": "smart-infrastructure-building-foundation-intelligent-transport-systems",
+        "id": "infrastruktur-cerdas-membangun-fondasi-sistem-transportasi-cerdas"
+      },
+      "created_at": "2023-08-12T13:00:00Z",
+      "modified_at": "2023-08-12T16:30:00Z",
+      "category": "Infrastructure",
+      "category_slug": "infrastructure",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-5.jpg",
+      "excerpt": "Explore the essential role of smart infrastructure in laying the groundwork for intelligent...",
+      "content": "Smart infrastructure forms the backbone of modern intelligent transport systems..."
+    },
+    {
+      "id": 6,
+      "featured": false,
+      "lang": "id",
+      "title": "Perkembangan Sistem Transportasi Cerdas di Wilayah Asia Pasifik",
+      "slug": {
+        "en": "advancements-in-intelligent-transport-systems-asia-pacific",
+        "id": "perkembangan-sistem-transportasi-cerdas-asia-pasifik"
+      },
+      "created_at": "2023-08-12T09:45:00Z",
+      "modified_at": "2023-08-12T13:15:00Z",
+      "category": "Transportasi",
+      "category_slug": "transportasi",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-6.jpg",
+      "excerpt": "Jelajahi perkembangan terbaru dalam sistem transportasi cerdas di wilayah Asia Pasifik...",
+      "content": "Sistem Transportasi Cerdas (STC) telah merevolusi cara kita berkomuter dan bepergian..."
+    },
+    {
+      "id": 7,
+      "featured": false,
+      "lang": "id",
+      "title": "Peran Analitika Data dalam Meningkatkan Mobilitas Urban",
+      "slug": {
+        "en": "role-data-analytics-enhancing-urban-mobility",
+        "id": "peran-analitika-data-dalam-meningkatkan-mobilitas-urban"
+      },
+      "created_at": "2023-08-12T10:15:00Z",
+      "modified_at": "2023-08-12T13:45:00Z",
+      "category": "Ilmu Data",
+      "category_slug": "ilmu-data",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-7.jpg",
+      "excerpt": "Temukan bagaimana analitika data membentuk dan meningkatkan cara orang bergerak di dalam kota...",
+      "content": "Analitika data semakin berperan penting dalam mengubah mobilitas perkotaan..."
+    },
+    {
+      "id": 8,
+      "featured": false,
+      "lang": "id",
+      "title": "Tantangan dan Peluang dalam Implementasi Manajemen Lalu Lintas Cerdas",
+      "slug": {
+        "en": "challenges-opportunities-implementing-intelligent-traffic-management",
+        "id": "tantangan-dan-peluang-implementasi-manajemen-lalu-lintas-cerdas"
+      },
+      "created_at": "2023-08-12T11:30:00Z",
+      "modified_at": "2023-08-12T14:45:00Z",
+      "category": "Teknologi",
+      "category_slug": "teknologi",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-8.jpg",
+      "excerpt": "Jelajahi berbagai tantangan dan peluang yang datang dengan implementasi manajemen lalu lintas cerdas...",
+      "content": "Sistem Manajemen Lalu Lintas Cerdas (SMLLC) memiliki potensi untuk mengubah bagaimana kota..."
+    },
+    {
+      "id": 9,
+      "featured": false,
+      "lang": "id",
+      "title": "Masa Depan Kendaraan Otonom di Asia Pasifik",
+      "slug": {
+        "en": "future-autonomous-vehicles-asia-pacific",
+        "id": "masa-depan-kendaraan-otonom-di-asia-pasifik"
+      },
+      "created_at": "2023-08-12T12:45:00Z",
+      "modified_at": "2023-08-12T16:00:00Z",
+      "category": "Otomotif",
+      "category_slug": "otomotif",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-9.jpg",
+      "excerpt": "Jelajahi potensi dan tantangan kendaraan otonom dalam membentuk masa depan transportasi...",
+      "content": "Wilayah Asia Pasifik muncul sebagai pusat perkembangan kendaraan otonom..."
+    },
+    {
+      "id": 10,
+      "featured": false,
+      "lang": "id",
+      "title": "Infrastruktur Cerdas: Membangun Fondasi untuk Sistem Transportasi Cerdas",
+      "slug": {
+        "en": "smart-infrastructure-building-foundation-intelligent-transport-systems",
+        "id": "infrastruktur-cerdas-membangun-fondasi-sistem-transportasi-cerdas"
+      },
+      "created_at": "2023-08-12T13:15:00Z",
+      "modified_at": "2023-08-12T16:45:00Z",
+      "category": "Infrastruktur",
+      "category_slug": "infrastruktur",
+      "author": "Tim ITS APF 2024",
+      "image": "/post/img-10.jpg",
+      "excerpt": "Jelajahi peran penting infrastruktur cerdas dalam membentuk dasar untuk sistem transportasi cerdas...",
+      "content": "Infrastruktur cerdas membentuk dasar dari sistem transportasi cerdas modern..."
+    }   
   ]
 }
